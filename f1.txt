@@ -1,2 +1,3 @@
 file 1 data
 file 2 data in new
+e file 3 data in new
